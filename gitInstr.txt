@@ -1,0 +1,5 @@
+git checkout -b feature-swagger-docs  יוצר גם בראנצ' 
+git add .
+ git commit -m 'added category.yml'
+git checkout dev
+git checkout feature-swagger-docs   
